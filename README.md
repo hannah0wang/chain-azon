@@ -1,6 +1,6 @@
 # CHAIN-AZON
 
-## Your personal 
+## Your personal AI shopping assistant on-chain
 - Browses & purchases products from Amazon, Walmart, and other major retailers.
 - Pay with cryptocurrency (ETH, USDC, etc) through a virtual credit card.
 - Chat with an AI-agent to stake funds and purchase food, furniture, and more.
